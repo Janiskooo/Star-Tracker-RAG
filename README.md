@@ -15,4 +15,5 @@ Im a newbie on github so I'm open to inviting developers to help with code and g
 - You may use this to create commercial pictures just make sure to attribute somewhere.
 - You may not sell any parts for these products in the intention of making a profit.
 - You may not sell prebuild machines with any profit.
+
 ANY violations of these usage rules WILL be enforced via law enforcement
