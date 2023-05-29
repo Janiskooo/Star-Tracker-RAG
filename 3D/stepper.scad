@@ -1,7 +1,7 @@
 union () {
 difference() {
 translate([0,0,0]) {
-  color([1,0,0])        
+  color([0.2,0.2,0.2])        
     cube([42,42,25]);
 }
 translate([5.5,5.5,15]) {
